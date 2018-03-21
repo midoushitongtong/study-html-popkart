@@ -1,0 +1,162 @@
+img{
+	transition:all 1s;
+}
+#content{
+	position:relative;
+	height:auto;
+	padding:4px 10px 10px 10px;
+	background:url(../images/contentbg.jpg);
+}
+#content #name{
+	position:relative;
+	height:720px;
+	background:#fff url(../images/rmlist.gif) no-repeat;
+	padding:38px 20px 0px 20px;
+}
+#content #name #list{
+	margin:0 auto;
+	height:710px;
+	background:#fff;
+	position:relative;
+}
+#content #name #list h1{
+	width:882px;
+	height:31px;
+	position:absolute;
+	top:10px;
+	left:9px;
+	font-size:100%;
+	color:#fff;
+	background:url(../images/rmlist.gif) no-repeat -27px -53px;
+	padding-left:5px;
+}
+#content #name #list h1 ul li{
+	line-height:13px;
+	display:inline-block;
+	border-right:1px solid #fff;
+	padding:0 8px;
+	margin-top:8px;
+}
+#content #name #list h1 a{
+	cursor:pointer;
+	text-decoration:none;
+	color:#fff;
+}
+#content #name #rmlist{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:882px;
+	height:660px;
+}
+#content #name #rmlist ul{
+	padding:0 5px 0 5px;
+}
+#content #name #rmlist ul li{
+	position:relative;
+	float:left;
+	width:200px;
+	height:168px;
+	background:url(../images/rmlist.gif) no-repeat -364px -140px;
+	margin:5px 24px 12px 0px;
+}
+#content #name #rmlist ul li.end{
+	margin:5px 0px 12px 0px;
+}
+#content #name #rmlist ul li p{
+	padding:0 9px;
+	margin-top:3px;
+}
+#content #name #rmlist ul li p a{
+	color:#333;
+}
+#content #name #rmlist ul li p a:hover{
+	color:#f60;
+	text-decoration:none;
+}
+#content #name #rmlist ul li p em{
+	font-style:normal;
+	color:#666;
+}
+#content #name #rmlist ul li p a:hover{
+	cursor:pointer;
+}
+#content #name #rmlist ul li img{
+	width:200px;
+	height:109px;
+	display:block;
+}
+#content #name #rmlist ul li img:hover{
+	cursor:pointer;
+}
+#content #name #rmlist ul li:hover span{
+	opacity:0.7;
+	cursor:pointer;
+	background:url(../images/rmlist/ahover.png) no-repeat -81px -33px;
+}
+#content #name #rmlist ul li:hover img{
+	opacity:0.7;
+	transition:all 0.5s;
+}
+#content #name #rmlist ul li span{
+	transition:all 0.5s;
+	display:block;
+	width:39px;
+	height:39px;
+	position:absolute;
+	top:35px;
+	left:83px;
+}
+#content #name #rmlist ul li span:hover{
+	background:url(../images/rmlist/ahover.png) no-repeat -123px -33px;
+}
+
+#content #name #fanye{
+	position:absolute;
+	top:639px;
+	left:378px;
+}
+#content #name #fanye ul{
+	
+}
+#content #name #fanye ul li{
+	float:left;
+	border:1px solid #f60;
+	display:block;
+	margin-left:6px;
+	width:20px;
+	height:20px;
+	cursor:pointer;
+	text-align:center;
+	line-height:20px;
+}
+#content #fanye ul li a{
+	text-decoration:none;	
+}
+#content #fanye ul li:hover{
+	background:#f60;
+	color:#fff;
+}
+#content #name #namefooter{
+	margin-left:-20px;
+	background:url(../images/rmlist.gif) no-repeat 0 -786px;
+	width:940px;
+	height:14px;
+}
+
+
+#content #name #rmlist #list_1,#list_2,#list_3,#list_4,#list_5{
+	visibility:hidden;
+	position:absolute;
+}
+
+
+
+
+
+
+
+
+
+
+

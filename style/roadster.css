@@ -1,0 +1,583 @@
+#content{
+	position:relative;
+	height:auto;
+	padding:4px 10px 10px 10px;
+	background:url(../images/contentbg.jpg);
+}
+#content #name{
+	position:relative;
+	height:933px;
+	background:#fff url(../images/roadster.gif) no-repeat;
+	padding:38px 20px 0px 20px;
+}
+#content #name #namefooter{
+	margin-left:-20px;
+	background:blue url(../images/roadster.gif) no-repeat 0 -1286px;
+	width:940px;
+	height:14px;
+}
+/*LIST1*/
+
+#content #name #list{
+	margin:0 auto;
+	height:920px;
+	background:#fff;
+	position:relative;
+}
+#content #name #list h1{
+	width:882px;
+	height:31px;
+	position:absolute;
+	top:10px;
+	left:9px;
+	font-size:100%;
+	color:#fff;
+	background:url(../images/roadster.gif) no-repeat -27px -53px;
+	padding-left:5px;
+}
+#content #name #list h1 ul li{
+	line-height:13px;
+	display:inline-block;
+	border-right:1px solid #fff;
+	padding:0 8px;
+	margin-top:8px;
+}
+#content #name #list h1 a{
+	cursor:pointer;
+	text-decoration:none;
+	color:#fff;
+}
+#content #name #jianfeng{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #jianfeng h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -345px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #jianfeng h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #jianfeng div{
+	width:881px;
+
+}
+#content #name #jianfeng div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #jianfeng div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #jianfeng div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #jianfeng div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #jianfeng div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+/*LISTjianfeng2*/
+#content #name #jianfeng2{
+	visibility:hidden;
+}
+#content #name #jianfeng2{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #jianfeng2 h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -345px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #jianfeng2 h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #jianfeng2 div{
+	width:881px;
+
+}
+#content #name #jianfeng2 div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #jianfeng2 div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #jianfeng2 div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #jianfeng2 div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #jianfeng2 div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+/*fanye*/
+#content #name #jianfengfanye{
+	position:absolute;
+	top:865px;
+	left:378px;
+}
+#content #name #jianfengfanye ul li{
+	float:left;
+	border:1px solid #f60;
+	display:block;
+	margin-left:6px;
+	width:20px;
+	height:20px;
+	cursor:pointer;
+	text-align:center;
+	line-height:20px;
+}
+#content #jianfengfanye ul li a{
+	text-decoration:none;	
+}
+#content #jianfengfanye ul li:hover{
+	background:#f60;
+	color:#fff;
+}
+
+/*mianhuatang*/
+#content #name #mianhuatang{
+	visibility:hidden;
+}
+#content #name #mianhuatang{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #mianhuatang h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -565px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #mianhuatang h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #mianhuatang div{
+	width:881px;
+
+}
+#content #name #mianhuatang div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #mianhuatang div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #mianhuatang div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #mianhuatang div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #mianhuatang div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+#content #name #mianhuatang{
+	visibility:hidden;
+}
+#content #name #mianhuatang{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #mianhuatang h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -565px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #mianhuatang h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #mianhuatang div{
+	width:881px;
+
+}
+#content #name #mianhuatang div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #mianhuatang div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #mianhuatang div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #mianhuatang div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #mianhuatang div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+/*mianhuatang2*/
+#content #name #mianhuatang2{
+	visibility:hidden;
+}
+#content #name #mianhuatang2{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #mianhuatang2 h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -565px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #mianhuatang2 h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #mianhuatang2 div{
+	width:881px;
+
+}
+#content #name #mianhuatang2 div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #mianhuatang2 div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #mianhuatang2 div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #mianhuatang2 div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #mianhuatang2 div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+#content #name #mianhuatang2{
+	visibility:hidden;
+}
+#content #name #mianhuatang2{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #mianhuatang2 h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -565px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #mianhuatang2 h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #mianhuatang2 div{
+	width:881px;
+
+}
+#content #name #mianhuatang2 div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #mianhuatang2 div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #mianhuatang2 div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #mianhuatang2 div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #mianhuatang2 div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+/*mianhuatangfanye*/
+#content #name #mianhuatangfanye{
+	position:absolute;
+	top:865px;
+	left:378px;
+}
+#content #name #mianhuatangfanye ul li{
+	float:left;
+	border:1px solid #f60;
+	display:block;
+	margin-left:6px;
+	width:20px;
+	height:20px;
+	cursor:pointer;
+	text-align:center;
+	line-height:20px;
+}
+#content #mianhuatangfanye ul li a{
+	text-decoration:none;	
+}
+#content #mianhuatangfanye ul li:hover{
+	background:#f60;
+	color:#fff;
+}
+
+/*LIST3*/
+#content #name #baolie{
+	visibility:hidden;
+}
+#content #name #baolie{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #baolie h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -782px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #baolie h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #baolie div{
+	width:881px;
+
+}
+#content #name #baolie div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #baolie div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #baolie div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #baolie div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #baolie div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+/*LIST4*/
+#content #name #hejin{
+	visibility:hidden;
+}
+#content #name #hejin{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #hejin h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -565px;;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #hejin h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #hejin div{
+	width:881px;
+
+}
+#content #name #hejin div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #hejin div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #hejin div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #hejin div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #hejin div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+/*LIST5*/
+#content #name #pao{
+	visibility:hidden;
+}
+#content #name #pao{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #pao h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -1003px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #pao h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #pao div{
+	width:881px;
+
+}
+#content #name #pao div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #pao div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #pao div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #pao div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #pao div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+/*LIST6*/
+#content #name #motuo{
+	visibility:hidden;
+}
+#content #name #motuo{
+	position:absolute;
+	top:50px;
+	left:9px;
+	width:881px;
+}
+#content #name #motuo h2{
+	width:219px;
+	height:171px;
+	background:url(../images/roadster.gif) no-repeat -177px -345px;
+	margin:0 auto;
+	padding:5px 0 23px 0;
+}
+#content #name #motuo h2 img{
+	display:block;
+	margin:0 auto;
+}
+#content #name #motuo div{
+	width:881px;
+
+}
+#content #name #motuo div ul{
+	padding:0 5px 0 6px;
+}
+#content #name #motuo div ul li{
+	height:172px;
+	width:152px;
+	float:left;
+	margin:0 27PX 35px 0;
+	background:url(../images/roadster.gif) no-repeat -433px -346px;
+}
+#content #name #motuo div ul li.img_x{
+	margin-right:0px;
+}
+#content #name #motuo div ul li img{
+	display:block;
+	margin:0 auto;
+	padding-top:10px;
+}
+#content #name #motuo div ul li p{
+	text-align:center;
+	line-height:26px;
+}
+
+/*hidden*/
+#mianhuatangfanye{
+	visibility:hidden;
+}
+
+
+
+
+
+
+
+
